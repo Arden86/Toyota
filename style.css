@@ -44,6 +44,7 @@ ul a {
   color: #fff;
   text-decoration: none;
   padding: 16px;
+  text-align: center;
 }
 
 ul a:hover {
@@ -97,12 +98,6 @@ footer {
 }
 
 @media (max-width: 900px) {
-  h1 {
-    font-size: 32px;
-  }
-  h2 {
-    font-size: 24px;
-  }
   main {
     margin: 24px auto;
   }
@@ -114,12 +109,6 @@ footer {
   }
   nav a {
     padding: 12px;
-  }
-  h1 {
-    font-size: 28px;
-  }
-  h2 {
-    font-size: 22px;
   }
   main {
     margin: 16px auto;
